@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_RomanToInteger", "01_RomanToInteger\01_RomanToInteger.csproj", "{934814A6-D4E8-4832-8CC6-9F609918722E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_PalindromeLinkedList", "02_PalindromeLinkedList\02_PalindromeLinkedList.csproj", "{12F3FACE-509D-456F-88BE-3D7599EAE452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{934814A6-D4E8-4832-8CC6-9F609918722E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934814A6-D4E8-4832-8CC6-9F609918722E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934814A6-D4E8-4832-8CC6-9F609918722E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934814A6-D4E8-4832-8CC6-9F609918722E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12F3FACE-509D-456F-88BE-3D7599EAE452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F3FACE-509D-456F-88BE-3D7599EAE452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F3FACE-509D-456F-88BE-3D7599EAE452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F3FACE-509D-456F-88BE-3D7599EAE452}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44347048-1382-4EFD-9081-69F4CA2E6D3A}
+	EndGlobalSection
+EndGlobal
